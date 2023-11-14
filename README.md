@@ -6,5 +6,5 @@
  
    And I love fruit very much. 🍎 🍓 🥭 🥝
  
- ![BossSir's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+ ![BossSir's GitHub stats](https://github-readme-stats.vercel.app/api?username=BossSir&theme=dark&show_icons=true)
  ### Get in touch
