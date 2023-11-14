@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- 🤓 I'm Casper 辛琪, a College student | Artificial Intelligence Enthusiast
+ 🤓 I'm Casper, 
+   🎓a College student In [🏫 SDFMU](https://www.sdfmu.edu.cn) (2020 -- Present)
  
    I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 
  
